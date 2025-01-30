@@ -1,0 +1,17 @@
+{
+  "name": "weather_ai_agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anuj Bhardwaj",
+  "license": "ISC",
+  "dependencies": {
+    "ollama": "^0.5.12",
+    "openai": "^4.80.0",
+    "readline-sync": "^1.4.10"
+  }
+}
